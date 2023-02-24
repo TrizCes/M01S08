@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./star-wars.component.css']
 })
 export class StarWarsComponent {
+  public id: number = 0;
+  public nome: string='';
+  public habilidade: string = '';
+  public planeta : string = '';
+  public armas : string = '';
+  public avatar : string = '';
+
 
 }
