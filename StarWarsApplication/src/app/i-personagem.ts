@@ -6,3 +6,4 @@ export interface IPersonagem {
   armas: string,
   avatar: string
 }
+
